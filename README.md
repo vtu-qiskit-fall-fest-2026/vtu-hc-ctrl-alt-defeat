@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Ctrl Alt defeat** · Team ID `VTU-QFF-HC-0098` · Tier `Both`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Ctrl Alt defeat)
+[⬆ Back to Top](#ctrl-alt-defeat)
 
 </div>
